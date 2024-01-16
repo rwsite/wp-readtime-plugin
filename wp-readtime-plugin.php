@@ -1,14 +1,17 @@
 <?php
 /**
- * Plugin Name: Post read time
- * Description: This Wordpress plugin generates post reading time
- * Version:     1.0.0
- * Author:      Aleksey Tikhomirov
- * Author URI:  http://rwsite.ru
+ * Plugin Name: Post Read Time
+ * Plugin URL: https://rwsite.ru
+ * Description: WordPress plugin of post read time. How to use: <code>[read_time]</code>
+ * Version: 1.0.0
+ * Text Domain: readtime
+ * Domain Path: /languages
+ * Author: Aleksey Tikhomirov
  *
  * Requires at least: 4.6
- * Tested up to: 6.3
- * Requires PHP: 8.0+
+ * Tested up to: 6.4
+ * Requires PHP: 7.0+
+ *
  */
 
 // Exit if accessed directly
