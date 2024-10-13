@@ -1,0 +1,15 @@
+{
+  "name": "rwsite/wp-readtime-plugin",
+  "description": "This Wordpress readtime plugin",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Aleksei Tikhomirov",
+      "email": "alex@rwsite.ru"
+    }
+  ],
+  "require": {
+  }
+}
